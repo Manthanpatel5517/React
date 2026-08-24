@@ -1,0 +1,38 @@
+export const practicals = [
+  {
+    no: "13",
+    topic: "React API Integration",
+    date: "22-Aug-2026",
+    task: "Fetch and Display API Data",
+    marks: "9/10",
+    status: "Completed",
+    feedback: "Excellent work. API data was fetched and displayed correctly.",
+  },
+  {
+    no: "14",
+    topic: "React Router",
+    date: "25-Aug-2026",
+    task: "Create Multiple Pages",
+    marks: "8/10",
+    status: "Completed",
+    feedback: "Good navigation structure with working routes.",
+  },
+  {
+    no: "15",
+    topic: "React Forms",
+    date: "28-Aug-2026",
+    task: "Build a Responsive Registration Form",
+    marks: "Pending",
+    status: "Pending",
+    feedback: "Submission is awaiting evaluation.",
+  },
+  {
+    no: "16",
+    topic: "Axios API",
+    date: "30-Aug-2026",
+    task: "Get Data Using Axios",
+    marks: "10/10",
+    status: "Completed",
+    feedback: "Perfect implementation with clean Axios integration.",
+  },
+];
